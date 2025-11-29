@@ -85,7 +85,7 @@ pip install transformers datasets accelerate chromadb sentence-transformers grad
 
 ## Live Demo
 
-**Hugging Face Space:** 
+**Hugging Face Space:** https://huggingface.co/spaces/Isap31/Restaurant-review-advisor-Final-Project-452
 
 **Try these examples:**
 - Sentiment: "This restaurant exceeded all expectations!"
