@@ -1,11 +1,6 @@
 # Restaurant-review-advisor-Final-Project-452
 Final Project (DEMO)
 
-# Restaurant-review-advisor
-Final Project for INFO 452 (DEMO)
-
-# Restaurant Review Advisor
-
 AI-powered system for restaurant review sentiment analysis and knowledge retrieval.
 
 ## Project Overview
