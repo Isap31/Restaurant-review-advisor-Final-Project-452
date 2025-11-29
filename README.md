@@ -83,6 +83,8 @@ pip install transformers datasets accelerate chromadb sentence-transformers grad
 - **Generation:** Produces natural language answers based on customer feedback
 - **Response Time:** ~2-3 seconds per query
 
+**Hugging Face URL:** https://huggingface.co/Isap31/restaurant-sentiment-distilbert
+
 ## Live Demo
 
 **Hugging Face Space:** https://huggingface.co/spaces/Isap31/Restaurant-review-advisor-Final-Project-452
