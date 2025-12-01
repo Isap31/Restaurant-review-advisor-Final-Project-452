@@ -142,14 +142,14 @@ This project was developed with assistance from my favorite GPT - Claude AI (Ant
 3. **RAG Architecture:** True RAG requires all three components: Retrieval, Augmentation, and Generation
 
 ### Challenges that I overcame:
-1. Initial dataset (Bitcoin tweets) had class imbalance and label issues
+1. Initial dataset for a cryptocurrency recommender (Bitcoin tweets) had class imbalance and label issues
 2. CUDA errors from model/label mismatch required debugging and dataset switch
 3. Understanding difference between simple document retrieval and true RAG with generation
 
 ### Project Management:
 1. Switching datasets mid-project was the right decision (63% → 94.93% accuracy)
-2. Using same dataset for both components created strong project cohesion
-3. Incremental testing and validation prevented larger issues
+2. Using same the dataset for both components created a strong dataset
+3. Incremental testing and validation prevented larger issues later on
 
 ## Future Improvements
 
