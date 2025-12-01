@@ -94,17 +94,6 @@ pip install transformers datasets accelerate chromadb sentence-transformers grad
 - RAG Query: "What do customers say about food quality?"
 - Complete Analysis: Combines both for comprehensive insights
 
-## Project Structure
-
-```
-restaurant-review-advisor/
-├── FinalProject.ipynb          # Main Jupyter notebook with all code
-├── README.md                    # This file
-├── reflection.pdf               # One-page reflection paper
-├── restaurant_sentiment_model/  # Saved fine-tuned model (generated)
-└── requirements.txt             # Python dependencies
-```
-
 ## AI Assistance Documentation:
 
 This project was developed with assistance from my favorite GPT - Claude AI (Anthropic). Claude helped me with:
